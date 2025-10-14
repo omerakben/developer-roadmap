@@ -3190,31 +3190,10 @@
       }
     ]
   },
-  "wNguM6-YEznduz3MgBCYo": {
-    "title": "Application Monitoring",
-    "description": "Application monitoring involves the continuous observation and analysis of software applications to ensure they perform optimally, identify issues, and provide insights into their operation. This process includes tracking metrics such as response times, error rates, resource utilization (CPU, memory, and disk), and transaction performance. Application monitoring tools collect and analyze data to detect anomalies, provide alerts for potential problems, and offer detailed insights into application behavior and performance. By monitoring applications, organizations can proactively address issues, optimize performance, and improve user experience, ultimately ensuring reliability and efficiency in their software systems.\n\nVisit the following resources to learn more:",
-    "links": [
-      {
-        "title": "Applying Basic vs. Advanced Monitoring Techniques",
-        "url": "https://thenewstack.io/applying-basic-vs-advanced-monitoring-techniques/",
-        "type": "article"
-      },
-      {
-        "title": "Why Legacy Apps Need Your Monitoring Love, Too",
-        "url": "https://thenewstack.io/why-legacy-apps-need-your-monitoring-love-too/",
-        "type": "article"
-      },
-      {
-        "title": "Explore top posts about Monitoring",
-        "url": "https://app.daily.dev/tags/monitoring?ref=roadmapsh",
-        "type": "article"
-      },
-      {
-        "title": "Application Monitoring - 4 Golden Signals",
-        "url": "https://www.youtube.com/watch?v=PHcnmTdVPT0",
-        "type": "video"
-      }
-    ]
+  "observability@wNguM6-YEznduz3MgBCYo.md": {
+    "title": "Observability",
+    "description": "",
+    "links": []
   },
   "8rd7T5ahK2I_zh5co-IF-": {
     "title": "Jaeger",
@@ -3330,5 +3309,25 @@
         "type": "video"
       }
     ]
+  },
+  "eso@lUUJAEBrGJvL8dRs2n1GD.md": {
+    "title": "ESO",
+    "description": "",
+    "links": []
+  },
+  "dynatrace@4aJVaimsuvGIPXMZ_WjaA.md": {
+    "title": "Dynatrace",
+    "description": "",
+    "links": []
+  },
+  "salt@Kumwd6XOlEMeDohDH0q9P.md": {
+    "title": "Salt",
+    "description": "",
+    "links": []
+  },
+  "openshift@3GryoQuI67JTHg9r3xUHO.md": {
+    "title": "OpenShift",
+    "description": "",
+    "links": []
   }
 }
